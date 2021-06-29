@@ -7,7 +7,7 @@ import sys
 import time 
 #Гнавная часть бота
 
-bot = telebot.TeleBot('1386594700:AAEO3viFlCnzT4FAQBcrT39FBbTe-TBOnHc')
+bot = telebot.TeleBot('Ваш токен')
 
 #Переменные
 
